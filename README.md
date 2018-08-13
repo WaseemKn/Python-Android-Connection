@@ -5,7 +5,7 @@ client and python script is the server).
 - The messages between the client and server can be from these kinds:
    - "Correct" message and the reply in this case is: "Success".
    - "Disconnect" message and the reply in this case is: "Disconnected and the listen has Stopped".
-   - other messages and the reply in this case is: "Failed".
+   - Other messages and the reply in this case is: "Failed".
 
 - The android app contain three UI component:
     - EditText: for insert your message.
