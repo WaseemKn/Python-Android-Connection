@@ -14,3 +14,10 @@ client and python script is the server).
 
 - The python script is listen for a client as shown in the code.
 
+- The code is tested with:
+    - python 2.7
+    - Android Studio 3.1.3
+      Build #AI-173.4819257, built on June 4, 2018
+      JRE: 1.8.0_152-release-1024-b02 amd64
+      JVM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
+      Windows 10 10.0
