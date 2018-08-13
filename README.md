@@ -1,6 +1,6 @@
 # Python-Android-Connection
 An android app make a connection with a python script by a socket client/server (the app is the 
-client and python script is the server).
+client and python script is the server) and after making a connection the app display the time taken by send/receive operation.
 
 - The messages between the client and server can be from these kinds:
    - "Correct" message and the reply in this case is: "Success".
