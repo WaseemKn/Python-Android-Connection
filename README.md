@@ -1,4 +1,8 @@
 # Python-Android-Connection
+
+** This repo is migrated to https://github.com/mo-waseem/python-android-connection **
+
+
 An android app make a connection with a python script by a socket client/server (the app is the 
 client and python script is the server) and after making a connection the app display the time taken by send/receive operation.
 
